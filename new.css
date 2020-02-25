@@ -26,11 +26,26 @@ border: none;
 }
 .m-50{
     margin: 50px;
+    background-color: aqua;
+}
+.half{
+    width: 100%;
+    margin-top: 30px;
 }
 
 .middle{
     margin-top: 185px;
 }
-.categori{
-    text-align: center;
+.cat-title{
+   
+    margin-bottom: 50px;
 }
+.cat-title1{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 50px;
+
+}
+
+
